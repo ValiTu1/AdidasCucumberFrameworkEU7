@@ -1,7 +1,6 @@
 Feature: parallel one functionality
 
 
-
     @parallel
   Scenario: Verify all the products exist in the products pages
     Then under "Phones" category user should be able to see the list of following products
